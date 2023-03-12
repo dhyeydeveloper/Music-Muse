@@ -1,0 +1,10 @@
+env
+.vscode
+db.sqlite3
+Procfile
+.cache
+*.pyc
+*.zip
+*.json
+license.txt
+*.gif
